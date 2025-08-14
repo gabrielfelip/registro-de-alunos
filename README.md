@@ -21,7 +21,7 @@ O projeto evoluiu de um script procedural simples para uma aplicação robusta e
 
 ## 📸 Screenshot da Aplicação
 
-![Screenshot da Aplicação](sistema-aluno.gif)
+![Screenshot da Aplicação](sistema-aluno2.gif)
 
 
 ---
